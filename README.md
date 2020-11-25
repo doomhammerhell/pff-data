@@ -1,2 +1,2 @@
-# tfjs-data
-Data set for tensorflow.js articles
+# pff-data
+Data set for a simple Neural Network to predict burnt forest area
